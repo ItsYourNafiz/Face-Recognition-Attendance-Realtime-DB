@@ -89,7 +89,7 @@ while True:
                 iD = studentIDs[matchIndex]
                 # print(iD)
                 if counter == 0:
-                    cvzone.putTextRect(imgBackground, "Loading", ())
+                    cvzone.putTextRect(imgBackground, "Loading", (290, 401))
                     cv2.imshow("Face Attendance", imgBackground)
                     cv2.waitKey(1)
                     counter = 1
