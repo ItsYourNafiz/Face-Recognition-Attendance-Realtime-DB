@@ -1,0 +1,26 @@
+# Have to install by following order
+
+cmake
+dlib
+face-recognition
+cvzone
+opencv-python
+numpy==1.26.3
+opencv-python==4.9.0.80
+
+______________________________________________________________
+
+'''cmake'''
+# CMake is a free, cross-platform, software development tool for building applications via compiler-independent instructions.
+
+'''dlib'''
+# Dlib is a popular toolkit for machine learning that is used primarily for computer vision and image processing tasks, such as face recognition, facial landmark detection, object detection, and more. It is written in C++ but has Python bindings, making it easily accessible from Python code.
+
+'''face-recognition'''
+# Python is used in face recognition by utilizing libraries like OpenCV and Dlib to detect and recognize facial features, process images, and implement machine learning algorithms for identification.
+
+'''cvzone'''
+# This is a Computer vision package that makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries.
+
+'''opencv-python'''
+# OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
